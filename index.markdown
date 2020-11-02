@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-<h3> Hi, I'm Rishabh <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h3>
+<h3> Hi, I'm Rishabh <img src="/assets/images/hi.gif" width="30px"></h3>
 
 I'm a software engineer focused on developing and administering distributed systems frameworks like Apache Kafka, ElasticSearch etc. on Container Orchestration platforms like Kubernetes and Apache Mesos(mainly DC/OS).
 
