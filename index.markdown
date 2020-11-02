@@ -3,6 +3,10 @@ layout: home
 author_profile: true
 ---
 
-## Welcome to my little space on the Internet!
+<h3> Hi, I'm Rishabh <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h3>
 
-I am in process to get some blogs here soon. Till then, checkout [About](http://www.rbohra.com/about) me section.
+I'm a software engineer focused on developing and administering distributed systems frameworks like Apache Kafka, ElasticSearch etc. on Container Orchestration platforms like Kubernetes and Apache Mesos(mainly DC/OS).
+
+Currently I work at [D2iQ(previously, Mesosphere)](https://d2iq.com) as a Software Engineer(Contractor) from TCS. I work with Python, Go, Docker, DC/OS, Kubernetes, Confluent, Apache Kafka and Zookeeper, Elasticsearch etc. and responsible to add features and release the latest versions and make them avaibale on our platforms. I am also a voting member at [Python Software Foundation](https://www.python.org/psf/).
+
+If you think i'd be a good fit in your company, check out my CV/Résumé.
