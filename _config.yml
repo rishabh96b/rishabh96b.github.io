@@ -1,12 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 locale: "en-US"
-title: ऋषभ
+title: "ऋषभ"
 email: rishabhbohra01@gmail.com
-#TODO
 description: >- # this means to ignore newlines until "baseurl:" 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to Rishabh Bohra Jain's personal blog. 
+  This is where I share my experiences right from the tech to travel world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.rbohra.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rishxbhbohra
