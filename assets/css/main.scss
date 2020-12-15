@@ -2,13 +2,10 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 /*@todo: change fonts according to size.*/
-@import "minimal-mistakes";
+@import 'minimal-mistakes';
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
 html {
-  
-
   @include breakpoint($medium) {
-    
     font-family: 'Open Sans', sans-serif;
   }
 
@@ -17,8 +14,11 @@ html {
   }
 
   @include breakpoint($x-large) {
-    
     font-family: 'Open Sans', sans-serif;
   }
-  
+
+  a {
+    text-decoration: none;
+  }
 }
+
