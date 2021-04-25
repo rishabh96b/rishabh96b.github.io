@@ -35,7 +35,13 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/rishxbhbohra"
-    
+
+# Google Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-X453Q4FKVV"
+    anonymize_ip: false # default
 
 # Site Footer
 footer:
