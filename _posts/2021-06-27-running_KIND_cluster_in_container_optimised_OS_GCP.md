@@ -157,7 +157,7 @@ Next, we need to copy the `kubeconfig` file present at `$HOME/.kube/config` in t
 - Running `cat $HOME/.kube/config` and then copy-pasting it localy.
 - Using `scp` to transfer the file.
 
-Once you have the kubeconfig locally, open the file and change the `server` key from ~~`server: https://127.0.0.1:40261`~~ to `server: `http://127.0.0.1:8080`
+Once you have the kubeconfig locally, open the file and change the `server` key from ~~`server: https://127.0.0.1:40261`~~ to `server: http://127.0.0.1:8080`
 
 > Don'e forget to make https -> http in the local kubeconfig file. ;)
 
