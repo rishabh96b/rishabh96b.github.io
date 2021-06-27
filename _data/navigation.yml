@@ -1,10 +1,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Resume"
-    url: #
-  - title: "Gallery"
-    url: #
+  - title: "Blogs"
+    url: /blog/
+  # - title: "Resume"
+  #   url: #
+  # - title: "Gallery"
+  #   url: #
 #  - title: "Tags"
 #    url: /tags/
 #  - title: "Pages"
