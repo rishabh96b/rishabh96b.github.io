@@ -7,7 +7,9 @@ tags: ruby gems jekyll linux manjaro arch
 
 # Getting up to speed with Ruby 2.7 and Jekyll on Manjaro
 
-I've recently switched from the `Debian` verse (Ubuntu, specifically) to the world of Arch Linux based distribution, Manjaro. It has been a fun roller-coaster ride so far and still learning something new every day while doing daily development on this system. I this blog, I am going to share the experience of building and running my `Jekyll` based blog site(yes, the one you are reading this blog post on right now 😉)
+I've recently switched from the `Debian` verse (Ubuntu, specifically) to the world of Arch Linux based distribution, Manjaro. It has been a fun roller-coaster ride so far and still learning something new every day while doing development on this system. 
+
+In this blog, I am going to share the experience of building and running my `Jekyll` based blog site(yes, the one you are reading this blog post on right now 😉)
 
 At first, I installed `ruby` and `jekyll` on `Manjaro` using
 
