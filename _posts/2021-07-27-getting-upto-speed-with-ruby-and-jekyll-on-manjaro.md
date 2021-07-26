@@ -64,11 +64,11 @@ I found out that Ruby `v2.7` is available as package `ruby2.7` and installed it 
 yay -S ruby2.7 ruby2.6-bundler
 ```
 
-There was another caveat with this as checking the ruby installation with `ruby -v` and `gem -v` and hooray, it did not work. Instead, the binaries are named as `ruby2.7` and `gem2.7`. The workaround is to alias it to `ruby` and `gem` respectively.
+There was another caveat with this as checking the ruby installation with `ruby -v` and `gem -v` and hooray, it did not work. Instead, the binaries are named as `ruby-2.7` and `gem-2.7`. The workaround was to alias it to `ruby` and `gem` respectively.
 
 ```bash
-alias ruby=ruby2.7
-alias gem=gem2.7
+alias ruby=ruby-2.7
+alias gem=gem-2.7
 ```
 
 It is time to install `jekyll` again as I removed it along with the latest `ruby` binary with the command `gem install jekyll bundler` and got slapped with permission error this time.
