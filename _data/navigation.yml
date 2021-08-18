@@ -3,8 +3,6 @@ main:
     url: /about/
   - title: "Blogs"
     url: /blog/
-  - title: "Micro Blog"
-    url: /micro/
   # - title: "Resume"
   #   url: #
   # - title: "Gallery"
