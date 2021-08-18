@@ -96,6 +96,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _micros
  # - _posts
 # Exclude from processing.
 # The following items will not be processed, by default.
