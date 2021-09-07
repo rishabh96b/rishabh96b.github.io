@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "Blogs"
     url: /blog/
-  # - title: "Resume"
-  #   url: #
+  - title: "Resume"
+    url: assets/cv/Rishabh_Bohra_CV.pdf
   # - title: "Gallery"
   #   url: #
 #  - title: "Tags"
