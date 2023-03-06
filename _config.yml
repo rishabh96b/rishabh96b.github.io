@@ -35,7 +35,7 @@ search_full_content: true
 author:
   name: "Rishabh Bohra"
   avatar: "/assets/images/bio-img.jpeg"
-  bio: "Software Engineer, Fitness Enthusiast, Internet Citizen and Traveller" # Note: Markdown is allowed
+  bio: "Engineer, Fitness Enthusiast, Traveller & Internet Citizen" # Note: Markdown is allowed
   location: "Internet"
   links:
     - label: "GitHub"
