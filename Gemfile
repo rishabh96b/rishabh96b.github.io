@@ -13,3 +13,5 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
 end
 
+
+gem "ffi", "~> 1.15"
